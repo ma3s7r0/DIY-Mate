@@ -1,5 +1,6 @@
-# erva tee IceTea Test
+# erva mate IcedTea Test
 
+##1 (Loc: Measuring Cup, 27/06/20)
 - 1,25 L Water (filtered (Brita), boiled, cooled down)
 - 5 Tbs mate tee
 - 2 slices lemons

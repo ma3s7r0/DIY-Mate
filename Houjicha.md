@@ -9,3 +9,5 @@
 - 1 L Water (filtered (Brita), boiled, 85°C, 4 min)
 - 4 Tbs Houjicha (2nd time)
 - 2 slices oranges
+
+* could be more orange, next time 4

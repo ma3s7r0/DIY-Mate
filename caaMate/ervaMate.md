@@ -1,4 +1,4 @@
-# erva mate IcedTea Test
+# erva mate IcedTea
 
 ## 1 (Loc: Measuring Cup, Prod: 27/06/20)
 - 1,25 L Water (filtered (Brita), boiled, cooled down)

@@ -1,4 +1,4 @@
-# yerba mate IcedTea Test
+# yerba mate IcedTea
 
 ## 1 (Loc: little bottle, Prod: 26/06/20)
 - 1 L Water (filtered (Brita), boiled, cooled down)

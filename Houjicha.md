@@ -1,4 +1,4 @@
-# erva tee IcedTea Test
+# erva tee IcedTea
 
 ## 1 (Prod: 26/06/20)
 - 1 L Water (filtered (Brita), boiled, 85°C, 2 min)
